@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\ProjMain\\Undeafener\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\ProjMain\\Undeafener\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ProjMain\\UndeafenerModified\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\ProjMain\\UndeafenerModified\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ProjMain\\UndeafenerModified\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher_icon.png",
+        "source": "C:\\ProjMain\\UndeafenerModified\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_icon.png"
+    }
+]

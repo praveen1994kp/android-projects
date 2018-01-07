@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Voice Call Assistant</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="intro4text">"Make a call to view the app \n Set your Language Preference in the next screen"</string>
+</resources>
